@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Essentials;
 
-namespace FacialRecognitionLogin
+namespace MSPMY_IntroToFaceApi
 {
     public static class SecureStorageService
     {
